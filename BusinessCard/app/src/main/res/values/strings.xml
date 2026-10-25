@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="full_name">Nour Mousa Al Haloul</string>
+    <string name="title">Data Analytics Student</string>
+    <string name="university">Al-Aqsa University</string>
+    <string name="phone">+970 59 235 5470</string>
+    <string name="linkedin">linkedin.com/in/nour-al-haloul</string>
+    <string name="email">nouralhaloul07@gmail.com</string>
+    <string name="photo_description">Photo of Nour Mousa Al Haloul</string>
+</resources>

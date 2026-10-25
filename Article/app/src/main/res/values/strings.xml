@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Article</string>
+    <string name="article_title">Building Android UI with XML</string>
+    <string name="article_short_desc">Android apps build their screens from Views, such as TextView, ImageView and Button. An XML layout file describes which views appear on the screen and how they look, while the Java code handles what the app does.</string>
+    <string name="article_long_desc">Views are placed inside ViewGroups, which arrange their child views. A LinearLayout stacks its children in a row or a column, a FrameLayout layers them on top of each other, and a ConstraintLayout positions each view relative to its parent and to other views. Attributes such as layout_width and layout_height set the size of a view, layout_weight shares the free space between children, and padding and margin add space inside and around a view. Text belongs in strings.xml, and resources in the values-night folder replace the default ones when the device is in dark mode.</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#000000</color>
+    <color name="text_color">#F4DED3</color>
+    <color name="signature_color">#FF0000</color>
+</resources>
